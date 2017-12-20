@@ -1,0 +1,124 @@
+# experimentweb
+A spatial ability test using mental rotation task
+//首先定义实验材料
+<item naturalsi_item>
+
+</item>
+
+<item mirrorsi_item>
+
+</item>
+
+<item naturalyi_item>
+
+</item>
+
+<item mirroryi_item>
+
+</item>
+
+<item naturalqi_item>
+
+</item>
+
+<item mirrorqi_item>
+
+</item>
+
+<item naturalding_item>
+
+</item>
+
+<item mirrording_item>
+
+</item>
+
+<item naturalzhuan_item>
+
+</item>
+
+<item mirrorzhuan_item>
+
+</item>
+
+<item naturalbi_item>
+
+</item>
+
+<item mirrorbi_item>
+
+</item>
+
+<instruct myinstruct>
+
+</instruct>
+
+<page begininstruction>^^^^您好，欢迎您参加我们的研究~
+
+</page>
+
+<page pracendinstr>^^^^练习结束，进入正式实验
+
+</page>
+
+<page restinstr>^^^^请您休息一下
+
+</page>
+
+
+<page endinstruction>^^^^非常感谢您的参与！
+
+</page>
+
+<item fixation>
+     /1 = "+"
+</item>
+
+<item correctmsg>
+     /1 = "√"
+
+</item>
+
+<item errormsg>
+     /1 = "×"
+
+</item>
+
+<picture leftpic>
+
+</picture>
+
+<picture rightpic>
+
+</picture>
+
+<shape blank>
+
+</shape>
+
+<text fixzation>
+
+</text>
+
+<text correctmsg>
+
+</text>
+
+<text errormsg>
+
+</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
