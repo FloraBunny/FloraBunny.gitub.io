@@ -93,7 +93,10 @@ A spatial ability test using mental rotation task
 </picture>
 
 <shape blank>
-
+     /erase = True(0,0,0)
+	/color = (black)
+	/size = 
+     /shape = rectangle
 </shape>
 
 <text fixzation>
@@ -107,6 +110,87 @@ A spatial ability test using mental rotation task
 <text errormsg>
 
 </text>
+<values>
+ /fixationtime = 0
+ /shapetime = 0
+ /stimulustimep = 0
+</values>
+
+<expressions>
+	/generaterandomfixation = ceil(rand(400,600))
+	/generaterandomshape = ceil(rand(200,300))
+</expressions>
+
+//定义trials,需要定义12类trials，六种不同的汉字，每种的正常和镜像
+<trial naturalsi_trial>
+    /pretrialpause = 500
+	/correctmessage = (correctmsg,500)
+	/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturalsi_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturalsi_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturalsi_trial.insertstimulustime(picture.NR,values.shapetime)]
+	/ontrialbegin = [trial.naturalsi_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalsi_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+
+<trial mirrorsi_trial>
+
+</trial>
+
+<trial naturalyi_trial>
+
+</trial>
+
+<trial mirroryi_trial>
+
+</trial>
+
+<trial naturalqi_trial>
+
+</trial>
+
+<trial mirrorqi_trial>
+
+</trial>
+
+<trial naturalding_trial>
+
+</trial>
+
+<trial mirrording_trial>
+
+</trial>
+
+<trial naturalzhuan_trial>
+
+</trial>
+
+<trial mirrorzhuan_trial>
+
+</trial>
+
+<trial naturalbi_trial>
+
+</trial>
+
+<trial mirrorbi_trial>
+
+</trial>
+
+
+
+
+
+
+
+
+
 
 
 
