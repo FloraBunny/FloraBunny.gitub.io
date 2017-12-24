@@ -2,51 +2,127 @@
 A spatial ability test using mental rotation task
 //首先定义实验材料
 <item naturalsi_item>
-
+/1=
 </item>
-
+<item naturalsiR_item>
+/1=
+/2=
+/3=
+/4=
+/5=
+</item>
 <item mirrorsi_item>
-
+/1=
 </item>
-
+<item mirrorsiR_item>
+/1=
+/2=
+/3=
+/4=
+/5=
+</item>
 <item naturalyi_item>
-
+/1=
 </item>
-
+<item naturalyiR_item>
+/1=
+/2=
+/3=
+/4=
+/5=
+</item>
 <item mirroryi_item>
-
+/1=
 </item>
-
+<item mirroryiR_item>
+/1=
+/2=
+/3=
+/4=
+/5=
+</item>
 <item naturalqi_item>
-
+/1=
 </item>
-
+<item naturalqiR_item>
+/1=
+/2=
+/3=
+/4=
+/5=
+</item>
 <item mirrorqi_item>
-
+/1=
 </item>
-
+<item mirrorqiR_item>
+/1=
+/2=
+/3=
+/4=
+/5=
+</item>
 <item naturalding_item>
-
+/1=
 </item>
-
+<item naturaldingR_item>
+/1=
+/2=
+/3=
+/4=
+/5=
+</item>
 <item mirrording_item>
-
+/1=
 </item>
-
+<item mirrordingR_item>
+/1=
+/2=
+/3=
+/4=
+/5=
+</item>
 <item naturalzhuan_item>
-
+/1=
+</item>
+<item naturalzhuanR_item>
+/1=
+/2=
+/3=
+/4=
+/5=
 </item>
 
 <item mirrorzhuan_item>
-
+/1=
+</item>
+<item mirrorzhuanR_item>
+/1=
+/2=
+/3=
+/4=
+/5=
 </item>
 
 <item naturalbi_item>
-
+/1=
+</item>
+<item naturalbiR_item>
+/1=
+/2=
+/3=
+/4=
+/5=
 </item>
 
 <item mirrorbi_item>
-
+/1=
+</item>
+<item mirrorbiR_item>
+/1=
+/2=
+/3=
+/4=
+/5=
 </item>
 
 <instruct myinstruct>
@@ -84,14 +160,162 @@ A spatial ability test using mental rotation task
 
 </item>
 
-<picture leftpic>
-
+<picture naturalbi_pic>
+        /erase = True(0,0,0) 
+	/position=
+	/items = naturalbi_item
+	/size = 
 </picture>
 
-<picture rightpic>
-
+<picture naturalbiR_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = naturalbiR_item
+	/size = 
+</picture>
+<picture mirrorbi_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = mirrorbi_item
+	/size = 
 </picture>
 
+<picture mirrorbiR_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = mirrorbiR_item
+	/size = 
+</picture>
+<picture naturalsi_pic>
+        /erase = True(0,0,0) 
+	/position=
+	/items = naturalsi_item
+	/size = 
+</picture>
+
+<picture naturalsiR_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = naturalsiR_item
+	/size = 
+</picture>
+<picture mirrorsi_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = mirrorsi_item
+	/size = 
+</picture>
+
+<picture mirrorsiR_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = mirrorsiR_item
+	/size = 
+</picture>
+<picture naturalqi_pic>
+        /erase = True(0,0,0) 
+	/position=
+	/items = naturalqi_item
+	/size = 
+</picture>
+
+<picture naturalqiR_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = naturalqiR_item
+	/size = 
+</picture>
+<picture mirrorqi_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = mirrorqi_item
+	/size = 
+</picture>
+
+<picture mirrorqiR_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = mirrorqiR_item
+	/size = 
+</picture>
+<picture naturalyi_pic>
+        /erase = True(0,0,0) 
+	/position=
+	/items = naturalyi_item
+	/size = 
+</picture>
+
+<picture naturalyiR_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = naturalyiR_item
+	/size = 
+</picture>
+<picture mirroryi_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = mirroryi_item
+	/size = 
+</picture>
+
+<picture mirroryiR_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = mirroryiR_item
+	/size = 
+</picture>
+<picture naturalding_pic>
+        /erase = True(0,0,0) 
+	/position=
+	/items = naturalding_item
+	/size = 
+</picture>
+
+<picture naturaldingR_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = naturaldingR_item
+	/size = 
+</picture>
+<picture mirrording_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = mirrording_item
+	/size = 
+</picture>
+
+<picture mirrordingR_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = mirrordingR_item
+	/size = 
+</picture>
+<picture naturalzhuan_pic>
+        /erase = True(0,0,0) 
+	/position=
+	/items = naturalzhuan_item
+	/size = 
+</picture>
+
+<picture naturalzhuanR_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = naturalzhuanR_item
+	/size = 
+</picture>
+<picture mirrorzhuan_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = mirrorzhuan_item
+	/size = 
+</picture>
+
+<picture mirrorzhuanR_pic>
+/erase = True(0,0,0) 
+	/position=
+	/items = mirrorzhuanR_item
+	/size = 
+</picture>
 <shape blank>
      /erase = True(0,0,0)
 	/color = (black)
@@ -100,15 +324,27 @@ A spatial ability test using mental rotation task
 </shape>
 
 <text fixzation>
-
+/items = fixation
+	/select = 1
+	/fontstyle = ("Arial", 80ptc)
+	/txbgcolor = (0,0,0)
+	/txcolor = (255,255,255)
 </text>
 
 <text correctmsg>
-
+	/items = correctmsg
+	/select = 1
+	/fontstyle = ("楷体", 60ptc, false, false, false, false, 5, 1)
+	/txcolor = (255,255,255)
+	/txbgcolor = (0, 0, 0)
 </text>
 
 <text errormsg>
-
+/items = errormsg
+	/select = 1
+	/fontstyle = ("楷体", 60ptc, false, false, false, false, 5, 1)
+	/txcolor = (255,255,255)
+	/txbgcolor = (0, 0, 0)
 </text>
 <values>
  /fixationtime = 0
@@ -122,7 +358,7 @@ A spatial ability test using mental rotation task
 </expressions>
 
 //定义trials,需要定义12类trials，六种不同的汉字，每种的正常和镜像
-<trial naturalsi_trial>
+<trial naturalsiNR_trial>
     /pretrialpause = 500
 	/correctmessage = (correctmsg,500)
 	/errormessage = (errormsg,500)
@@ -131,57 +367,413 @@ A spatial ability test using mental rotation task
 	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
 	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
 	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
-	/ontrialbegin = [trial.naturalsi_trial.insertstimulustime(text.fixation, 0)]
-	/ontrialbegin = [trial.naturalsi_trial.insertstimulustime(shape.blank,values.fixationtime)]
-	/ontrialbegin = [trial.naturalsi_trial.insertstimulustime(picture.NR,values.shapetime)]
-	/ontrialbegin = [trial.naturalsi_trial.insertstimulustime(shape.blank,values.stimulustimep)]
-	/ontrialend = [trial.naturalsi_trial.clearstimulusframes()]
+	/ontrialbegin = [trial.naturalsiNR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturalsiNR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturalsiNR_trial.insertstimulustime(picture.naturalsi,values.shapetime)]
+	/ontrialbegin = [trial.naturalsiNR_trial.insertstimulustime(picture.naturalsiR,values.shapetime)]
+	/ontrialbegin = [trial.naturalsiNR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalsiNR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial naturalsiMR_trial>
+    /pretrialpause = 500
+	/correctmessage = (correctmsg,500)
+	/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("J")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturalsiMR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturalsiMR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturalsiMR_trial.insertstimulustime(picture.naturalsi,values.shapetime)]
+	/ontrialbegin = [trial.naturalsiMR_trial.insertstimulustime(picture.mirrorsiR,values.shapetime)]
+	/ontrialbegin = [trial.naturalsiMR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalsiMR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial mirrorsiMR_trial>
+    /pretrialpause = 500
+	/correctmessage = (correctmsg,500)
+	/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("J")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturalsiMR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturalsiMR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturalsiMR_trial.insertstimulustime(picture.mirrorsi,values.shapetime)]
+	/ontrialbegin = [trial.naturalsiMR_trial.insertstimulustime(picture.mirrorsiR,values.shapetime)]
+	/ontrialbegin = [trial.naturalsiMR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalsiMR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial mirrorsiNR_trial>
+    /pretrialpause = 500
+	/correctmessage = (correctmsg,500)
+	/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("J")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturalsiNR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturalsiNR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturalsiNR_trial.insertstimulustime(picture.mirrorsi,values.shapetime)]
+	/ontrialbegin = [trial.naturalsiNR_trial.insertstimulustime(picture.naturalsiR,values.shapetime)]
+	/ontrialbegin = [trial.naturalsiNR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalsiNR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial naturalbiNR_trial>
+    /pretrialpause = 500
+	/correctmessage = (correctmsg,500)
+	/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturalbiNR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturalbiNR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturalbiNR_trial.insertstimulustime(picture.naturalbi,values.shapetime)]
+	/ontrialbegin = [trial.naturalbiNR_trial.insertstimulustime(picture.naturalbiR,values.shapetime)]
+	/ontrialbegin = [trial.naturalbiNR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalbiNR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial naturalbiMR_trial>
+    /pretrialpause = 500
+	/correctmessage = (correctmsg,500)
+	/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("J")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturalbiMR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturalbiMR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturalbiMR_trial.insertstimulustime(picture.naturalbi,values.shapetime)]
+	/ontrialbegin = [trial.naturalbiMR_trial.insertstimulustime(picture.mirrorbiR,values.shapetime)]
+	/ontrialbegin = [trial.naturalbiMR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalbiMR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial mirrorbiMR_trial>
+    /pretrialpause = 500
+	/correctmessage = (correctmsg,500)
+	/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("J")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.mirrorbiMR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.mirrorbiMR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.mirrorbiMR_trial.insertstimulustime(picture.mirrorbi,values.shapetime)]
+	/ontrialbegin = [trial.mirrorbiMR_trial.insertstimulustime(picture.mirrorbiR,values.shapetime)]
+	/ontrialbegin = [trial.mirrorbiMR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.mirrorbiMR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial mirrorsiNR_trial>
+        /pretrialpause = 500
+	/correctmessage = (correctmsg,500)
+	/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("J")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.mirrorsiNR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.mirrorsiNR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.mirrorsiNR_trial.insertstimulustime(picture.mirrorsi,values.shapetime)]
+	/ontrialbegin = [trial.mirrorsiNR_trial.insertstimulustime(picture.naturalsiR,values.shapetime)]
+	/ontrialbegin = [trial.mirrorsiNR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.mirrorsiNR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial naturalyiNR_trial>
+/correctmessage = (correctmsg,500)
+	/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturalyiNR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturalyiNR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturalyiNR_trial.insertstimulustime(picture.naturalyi,values.shapetime)]
+	/ontrialbegin = [trial.naturalyiNR_trial.insertstimulustime(picture.naturalyiR,values.shapetime)]
+	/ontrialbegin = [trial.naturalyiNR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalyiNR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial naturalyiMR_trial>
+/correctmessage = (correctmsg,500)
+	/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturalyiMR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturalyiMR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturalyiMR_trial.insertstimulustime(picture.naturalyi,values.shapetime)]
+	/ontrialbegin = [trial.naturalyiMR_trial.insertstimulustime(picture.mirroryiR,values.shapetime)]
+	/ontrialbegin = [trial.naturalyiMR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalyiMR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial mirroryiNR_trial>
+
+/correctmessage = (correctmsg,500)
+	/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.mirroryiNR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.mirroryiNR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.mirroryiNR_trial.insertstimulustime(picture.mirroryi,values.shapetime)]
+	/ontrialbegin = [trial.mirroryiNR_trial.insertstimulustime(picture.naturalyiR,values.shapetime)]
+	/ontrialbegin = [trial.mirroryiNR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.mirroryiNR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+
+</trial>
+<trial mirroryiMR_trial>
+
+/correctmessage = (correctmsg,500)
+	/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.mirroryiMR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.mirroryiMR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.mirroryiMR_trial.insertstimulustime(picture.mirroryi,values.shapetime)]
+	/ontrialbegin = [trial.mirroryiMR_trial.insertstimulustime(picture.mirroryiR,values.shapetime)]
+	/ontrialbegin = [trial.mirroryiMR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.mirroryiMR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+
+</trial>
+<trial naturalqiNR_trial>
+/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturalqiNR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturalqiNR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturalqiNR_trial.insertstimulustime(picture.naturalqi,values.shapetime)]
+	/ontrialbegin = [trial.naturalqiNR_trial.insertstimulustime(picture.naturalqiR,values.shapetime)]
+	/ontrialbegin = [trial.naturalqiNR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalqiNR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial naturalqiMR_trial>
+/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturalqiMR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturalqiMR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturalqiMR_trial.insertstimulustime(picture.naturalqi,values.shapetime)]
+	/ontrialbegin = [trial.naturalqiMR_trial.insertstimulustime(picture.mirrorqiR,values.shapetime)]
+	/ontrialbegin = [trial.naturalqiMR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalqiMR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial mirrorqiNR_trial>
+/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.mirrorqiNR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.mirrorqiNR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.mirrorqiNR_trial.insertstimulustime(picture.mirrorqi,values.shapetime)]
+	/ontrialbegin = [trial.mirrorqiNR_trial.insertstimulustime(picture.naturalqiR,values.shapetime)]
+	/ontrialbegin = [trial.mirrorqiNR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.mirrorqiNR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial mirrorqiMR_trial>
+/errormessage = (errormsg,500)
+	/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.mirrorqiMR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.mirrorqiMR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.mirrorqiMR_trial.insertstimulustime(picture.mirrorqi,values.shapetime)]
+	/ontrialbegin = [trial.mirrorqiMR_trial.insertstimulustime(picture.mirrorqiR,values.shapetime)]
+	/ontrialbegin = [trial.mirrorqiMR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.mirrorqiMR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial naturaldingNR_trial>
+/errormessage = (errormsg,500)
+/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturaldingNR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturaldingNR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturaldingNR_trial.insertstimulustime(picture.naturalding,values.shapetime)]
+	/ontrialbegin = [trial.naturaldingNR_trial.insertstimulustime(picture.naturaldingR,values.shapetime)]
+	/ontrialbegin = [trial.naturaldingNR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturaldingNR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial naturaldingMR_trial>
+/errormessage = (errormsg,500)
+/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturaldingMR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturaldingMR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturaldingMR_trial.insertstimulustime(picture.naturalding,values.shapetime)]
+	/ontrialbegin = [trial.naturaldingMR_trial.insertstimulustime(picture.mirrordingR,values.shapetime)]
+	/ontrialbegin = [trial.naturaldingMR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturaldingMR_trial.clearstimulusframes()]
 	/beginresponsetime = values.shapetime
 </trial>
 
-<trial mirrorsi_trial>
-
+<trial mirrordingNR_trial>
+/errormessage = (errormsg,500)
+/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.mirrordingNR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.mirrordingNR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.mirrordingNR_trial.insertstimulustime(picture.mirrording,values.shapetime)]
+	/ontrialbegin = [trial.mirrordingNR_trial.insertstimulustime(picture.naturaldingR,values.shapetime)]
+	/ontrialbegin = [trial.mirrordingNR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturaldingNR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial mirrordingMR_trial>
+/errormessage = (errormsg,500)
+/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.mirrordingMR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.mirrordingMR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.mirrordingMR_trial.insertstimulustime(picture.mirrording,values.shapetime)]
+	/ontrialbegin = [trial.mirrordingMR_trial.insertstimulustime(picture.mirrordingR,values.shapetime)]
+	/ontrialbegin = [trial.mirrordingMR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturaldingMR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial naturalzhuanNR_trial>
+/errormessage = (errormsg,500)
+/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturalzhuanNR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturalzhuanNR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturalzhuanNR_trial.insertstimulustime(picture.naturalzhuan,values.shapetime)]
+	/ontrialbegin = [trial.naturalzhuanNR_trial.insertstimulustime(picture.naturalzhuanR,values.shapetime)]
+	/ontrialbegin = [trial.naturalzhuanNR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalzhuanNR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial naturalzhuanMR_trial>
+/errormessage = (errormsg,500)
+/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.naturalzhuanMR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.naturalzhuanMR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.naturalzhuanMR_trial.insertstimulustime(picture.naturalzhuan,values.shapetime)]
+	/ontrialbegin = [trial.naturalzhuanMR_trial.insertstimulustime(picture.mirrorzhuanR,values.shapetime)]
+	/ontrialbegin = [trial.naturalzhuanMR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalzhuanMR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial mirrorzhuanNR_trial>
+/errormessage = (errormsg,500)
+/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.mirrorzhuanNR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.mirrorzhuanNR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.mirrorzhuanNR_trial.insertstimulustime(picture.mirrorzhuan,values.shapetime)]
+	/ontrialbegin = [trial.mirrorzhuanNR_trial.insertstimulustime(picture.naturalzhuanR,values.shapetime)]
+	/ontrialbegin = [trial.mirrorzhuanNR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalzhuanNR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
+</trial>
+<trial mirrorzhuanMR_trial>
+/errormessage = (errormsg,500)
+/validresponse = ("F","J")
+	/correctresponse = ("F")
+	/ontrialbegin = [values.fixationtime = expressions.generaterandomfixation]
+	/ontrialbegin = [values.shapetime = values.fixationtime + expressions.generaterandomshape]
+	/ontrialbegin = [values.stimulustimep = values.shapetime + 300]
+	/ontrialbegin = [trial.mirrorzhuanMR_trial.insertstimulustime(text.fixation, 0)]
+	/ontrialbegin = [trial.mirrorzhuanMR_trial.insertstimulustime(shape.blank,values.fixationtime)]
+	/ontrialbegin = [trial.mirrorzhuanMR_trial.insertstimulustime(picture.mirrorzhuan,values.shapetime)]
+	/ontrialbegin = [trial.mirrorzhuanMR_trial.insertstimulustime(picture.mirrorzhuanR,values.shapetime)]
+	/ontrialbegin = [trial.mirrorzhuanMR_trial.insertstimulustime(shape.blank,values.stimulustimep)]
+	/ontrialend = [trial.naturalzhuanMR_trial.clearstimulusframes()]
+	/beginresponsetime = values.shapetime
 </trial>
 
-<trial naturalyi_trial>
+<block startblock>
+	/screencolor = (255,255,255)
+	/preinstructions = (begininstruction2)
+</block>
 
-</trial>
+<block exerciseblk>
+	/screencolor = (0,0,0)
+	/blockfeedback = (meanlatency,correct)
+	/trials = [1-8 = noreplacenorepeat(naturalbiNR,naturalbiMR,mirrorbiMR,mirrorbiNR,naturalqiNR,naturalqiMR,mirrorqiMR,mirrorqiNR)]
+</block>
 
-<trial mirroryi_trial>
+<block restblock>
+	/screencolor = (255,255,255)
+	/postinstructions = (endinstruction1)
+</block>
 
-</trial>
+<block judgeblk>
+	/screencolor = (0,0,0)
+	/blockfeedback = (meanlatency,correct)
+	/trials = [1-48 = noreplacenorepeat(naturalbiNR,naturalbiMR,mirrorbiMR,mirrorbiNR,naturalqiNR,naturalqiMR,mirrorqiMR,mirrorqiNR,naturalsiNR,naturalsiMR,mirrorsiMR,mirrorsiNR,naturalyiNR,naturalyiMR,mirroryiMR,mirroryiNR,naturaldingNR,naturaldingMR,mirrordingMR,mirrordingNR,naturalzhuanNR,naturalzhuanMR,mirrorzhuanMR,mirrorzhaunNR)]
+</block>
 
-<trial naturalqi_trial>
+5.定义experiment
+<expt>
+	/preinstructions = (begininstruction1)
+	/ blocks = [1 = startblock; 2=exerciseblk; 3 = restblock; 4 = startblock; 5 = judgeblk]
+	/postinstructions = (endinstruction2)
+</expt>
 
-</trial>
 
-<trial mirrorqi_trial>
-
-</trial>
-
-<trial naturalding_trial>
-
-</trial>
-
-<trial mirrording_trial>
-
-</trial>
-
-<trial naturalzhuan_trial>
-
-</trial>
-
-<trial mirrorzhuan_trial>
-
-</trial>
-
-<trial naturalbi_trial>
-
-</trial>
-
-<trial mirrorbi_trial>
-
-</trial>
 
 
 
