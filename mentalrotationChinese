@@ -2,7 +2,7 @@
 A spatial ability test using mental rotation task
 //首先定义实验材料
 <item naturalsi_item>
-/1=
+/1= naturalsi.jpg
 </item>
 <item naturalsiR_item>
 /1=
@@ -12,7 +12,7 @@ A spatial ability test using mental rotation task
 /5=
 </item>
 <item mirrorsi_item>
-/1=
+/1= mirrorsi.jpg
 </item>
 <item mirrorsiR_item>
 /1=
@@ -22,7 +22,7 @@ A spatial ability test using mental rotation task
 /5=
 </item>
 <item naturalyi_item>
-/1=
+/1= naturalyi.jpg
 </item>
 <item naturalyiR_item>
 /1=
@@ -32,7 +32,7 @@ A spatial ability test using mental rotation task
 /5=
 </item>
 <item mirroryi_item>
-/1=
+/1= mirroryi.jpg
 </item>
 <item mirroryiR_item>
 /1=
@@ -42,7 +42,7 @@ A spatial ability test using mental rotation task
 /5=
 </item>
 <item naturalqi_item>
-/1=
+/1= naturalqi.jpg
 </item>
 <item naturalqiR_item>
 /1=
@@ -52,7 +52,7 @@ A spatial ability test using mental rotation task
 /5=
 </item>
 <item mirrorqi_item>
-/1=
+/1= mirrorqi.jpg
 </item>
 <item mirrorqiR_item>
 /1=
@@ -62,7 +62,7 @@ A spatial ability test using mental rotation task
 /5=
 </item>
 <item naturalding_item>
-/1=
+/1= naturalding.jpg
 </item>
 <item naturaldingR_item>
 /1=
@@ -72,7 +72,7 @@ A spatial ability test using mental rotation task
 /5=
 </item>
 <item mirrording_item>
-/1=
+/1= mirrording.jpg
 </item>
 <item mirrordingR_item>
 /1=
@@ -82,7 +82,7 @@ A spatial ability test using mental rotation task
 /5=
 </item>
 <item naturalzhuan_item>
-/1=
+/1= naturalzhuan.jpg
 </item>
 <item naturalzhuanR_item>
 /1=
@@ -93,7 +93,7 @@ A spatial ability test using mental rotation task
 </item>
 
 <item mirrorzhuan_item>
-/1=
+/1= mirrorzhuan.jpg
 </item>
 <item mirrorzhuanR_item>
 /1=
@@ -104,7 +104,7 @@ A spatial ability test using mental rotation task
 </item>
 
 <item naturalbi_item>
-/1=
+/1= naturalbi.jpg
 </item>
 <item naturalbiR_item>
 /1=
@@ -115,7 +115,7 @@ A spatial ability test using mental rotation task
 </item>
 
 <item mirrorbi_item>
-/1=
+/1= mirrorbi.jpg
 </item>
 <item mirrorbiR_item>
 /1=
@@ -129,7 +129,9 @@ A spatial ability test using mental rotation task
 
 </instruct>
 
-<page begininstruction>^^^^您好，欢迎您参加我们的研究~
+<page begininstruction>^^^^您好，欢迎您参加我们的研究~下面是一个心理旋转任务，
+若右侧汉字绕中心点旋转后（无翻转）与左侧汉字相同，则按F键；
+若与左侧汉字成镜像，则按J键。
 
 </page>
 
