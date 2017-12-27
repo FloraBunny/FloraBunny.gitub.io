@@ -164,164 +164,164 @@ A spatial ability test using mental rotation task
 
 <picture naturalbi_pic>
         /erase = True(0,0,0) 
-	/position=
+	/position=(20%,50%)
 	/items = naturalbi_item
-	/size = 
+	/size = (300,300)
 </picture>
 
 <picture naturalbiR_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(80%,50%)
 	/items = naturalbiR_item
-	/size = 
+	/size = (300,300)
 </picture>
 <picture mirrorbi_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(20%,50%)
 	/items = mirrorbi_item
-	/size = 
+	/size = (300,300)
 </picture>
 
 <picture mirrorbiR_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(80%,50%)
 	/items = mirrorbiR_item
-	/size = 
+	/size = (300,300)
 </picture>
 <picture naturalsi_pic>
         /erase = True(0,0,0) 
-	/position=
+	/position=(20%,50%)
 	/items = naturalsi_item
-	/size = 
+	/size = (300,300)
 </picture>
 
 <picture naturalsiR_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(80%,50%)
 	/items = naturalsiR_item
-	/size = 
+	/size = (300,300)
 </picture>
 <picture mirrorsi_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(20%,50%)
 	/items = mirrorsi_item
-	/size = 
+	/size = (300,300)
 </picture>
 
 <picture mirrorsiR_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(80%,50%)
 	/items = mirrorsiR_item
-	/size = 
+	/size = (300,300)
 </picture>
 <picture naturalqi_pic>
         /erase = True(0,0,0) 
-	/position=
+	/position=(20%,50%)
 	/items = naturalqi_item
-	/size = 
+	/size = (300,300)
 </picture>
 
 <picture naturalqiR_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(80%,50%)
 	/items = naturalqiR_item
-	/size = 
+	/size = (300,300)
 </picture>
 <picture mirrorqi_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(20%,50%)
 	/items = mirrorqi_item
-	/size = 
+	/size = (300,300)
 </picture>
 
 <picture mirrorqiR_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(80%,50%)
 	/items = mirrorqiR_item
-	/size = 
+	/size = (300,300)
 </picture>
 <picture naturalyi_pic>
         /erase = True(0,0,0) 
-	/position=
+	/position=(20%,50%)
 	/items = naturalyi_item
-	/size = 
+	/size = (300,300)
 </picture>
 
 <picture naturalyiR_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(80%,50%)
 	/items = naturalyiR_item
-	/size = 
+	/size = (300,300)
 </picture>
 <picture mirroryi_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(20%,50%)
 	/items = mirroryi_item
-	/size = 
+	/size = (300,300)
 </picture>
 
 <picture mirroryiR_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(80%,50%)
 	/items = mirroryiR_item
-	/size = 
+	/size = (300,300)
 </picture>
 <picture naturalding_pic>
         /erase = True(0,0,0) 
-	/position=
+	/position=(20%,50%)
 	/items = naturalding_item
-	/size = 
+	/size = (300,300)
 </picture>
 
 <picture naturaldingR_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(80%,50%)
 	/items = naturaldingR_item
-	/size = 
+	/size = (300,300)
 </picture>
 <picture mirrording_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(20%,50%)
 	/items = mirrording_item
-	/size = 
+	/size = (300,300)
 </picture>
 
 <picture mirrordingR_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(80%,50%)
 	/items = mirrordingR_item
-	/size = 
+	/size = (300,300)
 </picture>
 <picture naturalzhuan_pic>
         /erase = True(0,0,0) 
-	/position=
+	/position=(20%,50%)
 	/items = naturalzhuan_item
-	/size = 
+	/size = (300,300)
 </picture>
 
 <picture naturalzhuanR_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(80%,50%)
 	/items = naturalzhuanR_item
-	/size = 
+	/size = (300,300)
 </picture>
 <picture mirrorzhuan_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(20%,50%)
 	/items = mirrorzhuan_item
-	/size = 
+	/size = (300,300)
 </picture>
 
 <picture mirrorzhuanR_pic>
 /erase = True(0,0,0) 
-	/position=
+	/position=(80%,50%)
 	/items = mirrorzhuanR_item
-	/size = 
+	/size = (300,300)
 </picture>
 <shape blank>
      /erase = True(0,0,0)
 	/color = (black)
-	/size = 
+	/size = (300,300)
      /shape = rectangle
 </shape>
 
