@@ -5,124 +5,124 @@ A spatial ability test using mental rotation task
 /1= naturalsi.jpg
 </item>
 <item naturalsiR_item>
-/1=
-/2=
-/3=
-/4=
-/5=
+/1= naturalsi60.jpg
+/2= naturalsi120.jpg
+/3= naturalsi180.jpg
+/4= naturalsi240.jpg
+/5= naturalsi300.jpg
 </item>
 <item mirrorsi_item>
 /1= mirrorsi.jpg
 </item>
 <item mirrorsiR_item>
-/1=
-/2=
-/3=
-/4=
-/5=
+/1= mirrorsi60.jpg
+/2= mirrorsi120.jpg
+/3= mirrorsi180.jpg
+/4= mirrorsi240.jpg
+/5= mirrorsi300.jpg
 </item>
 <item naturalyi_item>
 /1= naturalyi.jpg
 </item>
 <item naturalyiR_item>
-/1=
-/2=
-/3=
-/4=
-/5=
+/1= naturalyi60.jpg
+/2= naturalyi120.jpg
+/3= naturalyi180.jpg
+/4= naturalyi240.jpg
+/5= naturalyi300.jpg
 </item>
 <item mirroryi_item>
 /1= mirroryi.jpg
 </item>
 <item mirroryiR_item>
-/1=
-/2=
-/3=
-/4=
-/5=
+/1= mirroryi60.jpg
+/2= mirroryi120.jpg
+/3= mirroryi180.jpg
+/4= mirroryi240.jpg
+/5= mirroryi300.jpg
 </item>
 <item naturalqi_item>
 /1= naturalqi.jpg
 </item>
 <item naturalqiR_item>
-/1=
-/2=
-/3=
-/4=
-/5=
+/1= naturalqi60.jpg
+/2= naturalqi120.jpg
+/3= naturalqi180.jpg
+/4= natural240.jpg
+/5= natural300.jpg
 </item>
 <item mirrorqi_item>
 /1= mirrorqi.jpg
 </item>
 <item mirrorqiR_item>
-/1=
-/2=
-/3=
-/4=
-/5=
+/1= mirrorqi60.jpg
+/2= mirrorqi120.jpg
+/3= mirrorqi180.jpg
+/4= mirrorqi240.jpg
+/5= mirrorqi300.jpg
 </item>
 <item naturalding_item>
 /1= naturalding.jpg
 </item>
 <item naturaldingR_item>
-/1=
-/2=
-/3=
-/4=
-/5=
+/1= naturalding60.jpg
+/2= naturalding120.jpg
+/3= naturalding180.jpg
+/4= naturalding240.jpg
+/5= naturalding300.jpg
 </item>
 <item mirrording_item>
 /1= mirrording.jpg
 </item>
 <item mirrordingR_item>
-/1=
-/2=
-/3=
-/4=
-/5=
+/1= mirrording60.jpg
+/2= mirrording120.jpg
+/3= mirrording180.jpg
+/4= mirrording240.jpg
+/5= mirrording300.jpg
 </item>
 <item naturalzhuan_item>
 /1= naturalzhuan.jpg
 </item>
 <item naturalzhuanR_item>
-/1=
-/2=
-/3=
-/4=
-/5=
+/1= naturalzhuan60.jpg
+/2= naturalzhuan120.jpg
+/3= naturalzhuan180.jpg
+/4= naturalzhuan240.jpg
+/5= naturalzhuan300.jpg
 </item>
 
 <item mirrorzhuan_item>
 /1= mirrorzhuan.jpg
 </item>
 <item mirrorzhuanR_item>
-/1=
-/2=
-/3=
-/4=
-/5=
+/1= mirrorzhuan60.jpg
+/2= mirrorzhuan120.jpg
+/3= mirrorzhuan180.jpg
+/4= mirrorzhuan240.jpg
+/5= mirrorzhuan300.jpg
 </item>
 
 <item naturalbi_item>
 /1= naturalbi.jpg
 </item>
 <item naturalbiR_item>
-/1=
-/2=
-/3=
-/4=
-/5=
+/1= naturalbi60.jpg
+/2= naturalbi120.jpg
+/3= naturalbi180.jpg
+/4= naturalbi240.jpg
+/5= naturalbi300.jpg
 </item>
 
 <item mirrorbi_item>
 /1= mirrorbi.jpg
 </item>
 <item mirrorbiR_item>
-/1=
-/2=
-/3=
-/4=
-/5=
+/1= mirrorbi60.jpg
+/2= mirrorbi120.jpg
+/3= mirrorbi180.jpg
+/4= mirrorbi240.jpg
+/5= mirrorbi300.jpg
 </item>
 
 <instruct myinstruct>
